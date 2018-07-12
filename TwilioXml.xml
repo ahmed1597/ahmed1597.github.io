@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-<Say voice="alice">hussien is here . thank you</Say>
-<Play>https://demo.twilio.com/docs/classic.mp3</Play>
-<Dial answerOnBridge="true">+201550112415</Dial>
-</Response>
